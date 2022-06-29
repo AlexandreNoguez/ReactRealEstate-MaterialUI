@@ -1,4 +1,4 @@
-# ReactRealState-MaterialUI
+# ReactRealEstate-MaterialUI
 
 ![foto do projeto rodando](https://github.com/AlexandreNoguez/only-assets/blob/main/ReactRealState/dark-menu.png?raw=true)
 ![foto do projeto rodando](https://github.com/AlexandreNoguez/only-assets/blob/main/ReactRealState/dark-theme.png?raw=true)
@@ -17,7 +17,7 @@
 * Nodemon
 
 ## Para executar
-* clonar o diretorio: ReactRealState-MaterialUI
+* clonar o diretorio: ReactRealEstate-MaterialUI
 * npm install na pasta client (Para instalar as dependências)
 * npm install na pasta server (Para instalar as dependências)
 * configurar o seu banco de dados na pasta database
