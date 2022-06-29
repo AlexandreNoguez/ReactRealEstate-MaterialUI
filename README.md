@@ -2,7 +2,7 @@
 
 ![foto do projeto rodando](https://github.com/AlexandreNoguez/only-assets/blob/main/ReactRealState/dark-menu.png?raw=true)
 ![foto do projeto rodando](https://github.com/AlexandreNoguez/only-assets/blob/main/ReactRealState/dark-theme.png?raw=true)
-
+[vídeo do projeto](https://www.youtube.com/watch?v=FKfGfLsfz8E)
 ## Um projeto desenvolvido durante uma semana para o desafio proposto pela FDTE, concorrendo a uma vaga de trainee.
 ### Esse projeto consiste em desenvolver um backend de restaurante que entrega pizzas.
 
