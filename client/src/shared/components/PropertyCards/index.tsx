@@ -61,7 +61,7 @@ const PropertyCards: React.FC = () => {
     <Box>
       {propertyDetails?.filter((card) => card.title === title).map((item, index) => (
         <Card key={index}
-          sx={{ margin: 'auto', width: '90%', height: '90vh' }}
+          sx={{ margin: 'auto', width: '90%', height: '92vh' }}
         >
           <CardHeader
             avatar={
